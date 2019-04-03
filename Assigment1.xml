@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePage>
+
+
+	<HotNews>
+		<FocusNews>
+					
+				<Tittle>TP HCM sắp bầu tân Chủ tịch HĐND</Tittle>
+				<image>https://i-vnexpress.vnecdn.net/2019/04/03/layphieutinnhiem61911544002307-4835-6683-1554285856_500x300.jpg</image>
+				<Desc>Kỳ họp bất thường dự kiến miễn nhiệm một số chức danh của HĐND và UBND thành phố, đồng thời bầu tân Chủ tịch HĐND.</Desc>
+				<Dependent>
+					<Item><Title>TP HCM khủng hoảng nhân sự lãnh đạo như thế nào</Title></Item>
+				</Dependent>
+			
+		</FocusNews>
+
+		
+
+		<hotNewsList>
+			
+			<Item><Title>Lò nướng '7 trong 1' giúp người dùng nấu ăn từ xa  </Title></Item>
+			<Item><Title>Những kiểu quần jeans cắt xẻ gây sốc   </Title></Item>
+			<Item><Title>Cô gái trẻ phát tài từ việc pha trộn lá trà</Title></Item>
+			<Item><Title>Hàng loạt cây phượng được trồng mới thay thế cây sâu mục ở Hà Nội  </Title></Item>
+			<Item><Title>Tuyển nữ Việt Nam thắng Uzbekistan ở vòng loại Olympic</Title></Item>
+			<Item><Title>Một số Apple Watch bị phồng pin, bong màn hình</Title></Item>
+			<Item><Title>Nữ sinh tử vong sau tai nạn với xe ben</Title></Item>
+			<Item><Title>Phó thủ tướng yêu cầu tăng cường chống xâm hại tình dục trẻ em</Title></Item>
+			<Item><Title>Tại sao bộ đồ phi hành gia thường có màu trắng?  </Title></Item>
+			<Item><Title>Không thể sửa chữa 16 bức tượng La Hán bị phá hoại </Title></Item>
+		</hotNewsList>
+	</HotNews>
+
+
+	<MainNews>
+		<Main>
+			<Title>Mộ phần nhạc sĩ Trịnh công Sơn sẽ đưa về Huế</Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/tcs61351554049983-1554293831-7403-1554294182_140x84.jpg</Image>
+			<Desc>Mộ phần của nhạc sĩ Trịnh Công Sơn ở nghĩa trang chùa Quảng Bình (TP HCM) sẽ được đưa về quê nhà Thừa Thiên Huế.</Desc>
+			<Dependent>
+				<Tittle>Hà Nội đặt tên phố Trịnh Công Sơn</Tittle>
+			</Dependent>
+			
+		</Main>
+
+		<Main>
+			<Title>Công Phượng đá cả trận trong thất bại của Incheon  </Title>
+			<Image>https://i-thethao.vnecdn.net/2019/04/03/cong-phuong-3-jpeg-1554295604-5794-1554295647_140x84.png</Image>
+			<Desc>Tuyển thủ Việt Nam tạo hai cơ hội ăn bàn, khi cùng đội nhà thua Deagu 0-3 ở vòng năm K-League, hôm 3/4.</Desc>
+			<Dependent>
+				<Tittle>Báo Hàn Quốc: 'Công Phượng nguy hiểm nhất bên phía Incheon'</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Kẻ sờ soạng bé gái trong thang máy là luật sư ở Đà Nẵng</Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/thang-may-2892-1554289518_140x84.jpg</Image>
+			<Desc>Sau khi nghỉ hưu ở Viện kiểm sát, ông Linh ghi danh vào Đoàn luật sư thành phố Đà Nẵng.</Desc>
+			<Dependent>
+				<Tittle>Kẻ sờ soạng bé gái trong thang máy là cựu Viện phó VKS</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Phi công máy bay Ethiopia làm theo quy trình xử lý khẩn cấp trước khi rơi</Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/catsx-1554295092-1791-1554295705_140x84.jpg</Image>
+			<Desc>Phi công ngày 10/3 ban đầu ngắt công tắc đúng theo hướng dẫn của Boeing nhưng sau đó bật lại hệ thống vì vẫn không thể kiểm soát máy bay.</Desc>
+			<Dependent>
+				<Tittle>
+					Máy bay rơi ở Ethiopia, 157 người thiệt mạng / Hệ thống điều khiển tự động có thể khiến máy bay Boeing 737 MAX 8 gặp nạn
+				</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Tin Thể thao tối 3/4: Real đòi 560 triệu đôla cho Varane  </Title>
+			<Image>https://i-thethao.vnecdn.net/2019/04/03/varanerealmadridmu-1554282583-6907-1554282830_140x84.jpg</Image>
+			<Desc>Đội bóng Tây Ban Nha chỉ chấp nhận mất trụ cột khi đối tác chi đủ phí phá vỡ hợp đồng.</Desc>
+			<Dependent>
+				<Tittle></Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Nhà thầu đường sắt Nhổn - Ga Hà Nội đòi bồi thường vì ‘chậm giải phóng mặt bằng’ </Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/metro81497022275680x0-15542858-6833-5927-1554285922_140x84.jpg</Image>
+			<Desc>Liên danh nhà thầu đề nghị Hà Nội bồi thường vì mặt bằng thi công hai nhà ga chưa được bàn giao, có thể ảnh hưởng tiến độ.</Desc>
+			<Dependent>
+				<Tittle>hanh tra chỉ ra nhiều vi phạm tại dự án Metro 1,7 tỷ USD ở Hà Nội</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Cuộc gọi cầu cứu của thiếu nữ trước khi bị bạn trai cũ sát hại </Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/hien-truong-1554284966-9260-1554285074_140x84.png</Image>
+			<Desc>
+				Thấy bạn trai cũ tìm đến nơi làm việc của mình, nữ nhân viên ngân hàng sợ hãi phải đi theo anh ta song gọi điện thoại báo cho bố.
+			</Desc>
+			<Dependent>
+				<Tittle>Cô gái bị bạn trai đâm chết sau khi tháo chạy khỏi ôtô</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Kim Loan 'The Voice' qua đời vì ung thư gan  </Title>
+			<Image>https://i-giaitri.vnecdn.net/2019/04/03/kimloanTheVoicquadoiviungthu-1-7322-5387-1554286452_140x84.jpg</Image>
+			<Desc>Giọng ca dữ dội, "máu lửa" của Giọng hát Việt mùa đầu mất hôm 3/4 tại nhà riêng ở Bình Thuận, hưởng dương 44 tuổi. </Desc>
+			<Dependent>
+				<Tittle>Kim Loan The Voice rơi vào túng quẫn khi mắc ung thư gan</Tittle>
+			</Dependent>
+		</Main>
+		<Main>
+			<Title>'Nỗi buồn chiến tranh' của Bảo Ninh phát hành tại Trung Quốc</Title>
+			<Image>https://i-giaitri.vnecdn.net/2019/04/03/chientranh4-1554283447-6388-1554283564_140x84.jpg</Image>
+			<Desc>Tiến sĩ Văn học Hạ Lộ chuyển ngữ, tổ chức các tọa đàm giới thiệu tác giả tại Trung Quốc.</Desc>
+			<Dependent>
+				<Tittle>
+					Bảo Ninh nhận Giải thưởng Văn học châu Á ở Hàn Quốc / 'Bảo Ninh trượt giải Nhà nước là điều có thể lường trước'
+				</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Khá 'Bảnh' bị khởi tố về tội tổ chức đánh bạc  </Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/khabanhkhoito-1554294669-3524-1554294675_140x84.jpg</Image>
+			<Desc>Ngô Bá Khá sinh năm 1993, trú tại xã Tam Sơn (thị xã Từ Sơn, Bắc Ninh) bị công an khởi tố về tội tổ chức đánh bạc.</Desc>
+			<Dependent>
+				<Tittle>Cuộc sống nổi tiếng trên mạng của Khá 'Bảnh' trước khi bị bắt</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Bác sĩ tìm bắt tinh trùng cho đôi vợ chồng hiếm muộn</Title>
+			<Image>https://i-suckhoe.vnecdn.net/2019/04/03/viet-1554262667-1554262673-8218-1554265086_140x84.png</Image>
+			<Desc>
+				Hai lần thụ tinh ống nghiệm cho vợ chồng anh Thanh đều thất bại, bác sĩ Việt quyết định mổ tinh hoàn bệnh nhân để tìm tinh trùng.
+			</Desc>
+			<Dependent>
+				<Tittle></Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Kẻ sờ soạng bé gái trong thang máy là cựu Viện phó VKS </Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/Thangmay-1554277238-1699-1554277383_140x84.jpg</Image>
+			<Desc>Ông Linh từ Đà Nẵng vào thăm người thân ở chung cư quận 4, TP HCM, có hành vi ôm, sờ mó bé gái trong thang máy.</Desc>
+			<Dependent>
+				<Tittle>Bé gái bị gã đàn ông sờ soạng trong thang máy ở Sài Gòn</Tittle>
+			</Dependent>
+		</Main>
+
+		<Main>
+			<Title>Ninh Bình xác minh tin cảnh sát giao thông đứng nhìn án mạng ở giữa đường </Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/1111-1554268371-3575-1554268679_140x84.png</Image>
+			<Desc>Cô gái mất mạng dưới lưỡi kéo của bạn trai ở giữa đường song không ai vào cứu giúp, khống chế hung thủ</Desc>
+			<Dependent>
+				<Tittle>Cô gái bị bạn trai đâm chết sau khi tháo chạy khỏi ôtô</Tittle>
+			</Dependent>
+		</Main>
+		<Main>
+			<Title>Thiếu nữ Nhật cắt mái tóc dài nhất thế giới để đón triều đại mới</Title>
+			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/japan-1554279570-2654-1554279769_140x84.jpg</Image>
+			<Desc>Cô gái 18 tuổi lần đầu tiên cắt tóc để chào đón sự khởi đầu của một triều đại mới ở Nhật Bản và bắt đầu cuộc sống sinh viên.</Desc>
+			<Dependent>
+				<Tittle>'Công chúa tóc mây' Ấn Độ sở hữu mái tóc dài nhất thế giới</Tittle>
+			</Dependent>
+		</Main>
+		<Main>
+			<Title>Cảnh sát Hàn Quốc xin lỗi vụ thảm sát 10.000 dân thường hơn 70 năm trước</Title>
+			<Image></Image>
+			<Desc>Cơ quan Cảnh sát quốc gia Hàn Quốc cam kết không để thảm kịch tương tự lặp lại, trong khi Bộ Quốc phòng cũng bày tỏ sự hối tiếc sâu sắc.</Desc>
+			<Dependent>
+				<Tittle></Tittle>
+			</Dependent>
+		</Main>
+	</MainNews>
+
+	<Categories>	
+		<GocNhin>
+			<Item>
+				<Title>Phổi người Việt Nam</Title>
+				<Desc>Hệ miễn dịch của người Việt phải tốt gấp 2,5 lần đồng loại, nếu căn cứ vào các tiêu chuẩn môi trường.</Desc>
+				<Image>https://i-vnexpress.vnecdn.net/2019/01/28/nguyendanganhthipng-1548661469_100x100.png</Image>
+				<Author>Nguyễn Đăng Anh Thi</Author>
+			</Item>
+			<Item>
+				<Title>Tự kỷ</Title>
+				<Desc></Desc>
+				<Image></Image>
+				<Author>Hồng Phúc</Author>
+			</Item>
+			<Item>
+				<Title>Học trò đánh bạn</Title>
+				<Desc></Desc>
+				<Image></Image>
+				<Author>Phạm Minh Phương Hằng</Author>
+			</Item>
+			
+		</GocNhin>	
+
+		<TheThao>
+			<Item>
+				<Title>Tuyển nữ Việt Nam thắng Uzbekistan ở vòng loại Olympic </Title>
+				<Desc>Thầy trò Mai Đức Chung hạ đội chủ nhà 2-1 ở bảng B vòng loại thứ hai Olympic Tokyo 2020.</Desc>
+				<Image>https://i-thethao.vnecdn.net/2019/04/03/1293794-1554297090-7987-1554297130_140x84.jpg</Image>
+			</Item>
+
+			<Item>
+				<Title>Từ Hiểu Đông nhận dưới cơ Hàn Phi Long</Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>
+
+			<Item>
+				<Title>Bình Dương thắng trận đầu tiên ở AFC Cup</Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>
+			
+		</TheThao>
+
+		<KinhDoanh>
+			<Item>
+				<Title>ất hàng trăm triệu đồng gửi tiết kiệm dù vẫn được trả lãi</Title>
+				<Desc>Gửi tiết kiệm hơn 700 triệu đồng, vẫn nhận lãi nhưng khi kiểm tra, khách hàng mới biết phần lớn </Desc>
+				<Image>https://i-vnexpress.vnecdn.net/2019/04/03/trusonganhang-1554269562-9871-1554277500_140x84.jpg</Image>
+			</Item>
+
+			<Item>
+				<Title>Dịch vụ đi chung trực thăng tránh tắc đường ở Philippines</Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>
+
+			<Item>
+				<Title>Tiền ảo toàn cầu hồi sinh theo Bitcoin</Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>
+
+		</KinhDoanh>
+
+		<SucKhoe>
+			<Item>
+				<Title>Điện thoại đang sạc phát nổ làm bé trai 12 tuổi bỏng nặng</Title>
+				<Desc>Bệnh nhi được đưa vào Bệnh viện Đa khoa Điện Biên trong tình trạng bỏng hai bàn tay, bụng, ngực trái và mặt trái.</Desc>
+				<Image>https://i-suckhoe.vnecdn.net/2019/04/03/dien-thoai-dang-sac-phat-no-la-4577-4752-1554275212_140x84.png</Image>
+			</Item>	
+			<Item>
+				<Title>Chiếc bao cao su hơn 10.000 năm trước </Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>	
+			<Item>
+				<Title>Phát hiện dấu hiệu sớm ung thư đại tràng</Title>
+				<Desc></Desc>
+				<Image></Image>
+			</Item>	
+
+		</SucKhoe>
+		<GiaiTri></GiaiTri>
+		<DuLich></DuLich>
+		<DoiSong></DoiSong>
+		<SoHoa></SoHoa>
+		<Xe></Xe>
+		<GiaoDuc></GiaoDuc>
+		<KhoaHoc></KhoaHoc>
+		<TamSu></TamSu>
+		<Cuoi></Cuoi>
+		<XemNhieuNhat></XemNhieuNhat>
+	</Categories>
+
+
+</HomePage>
