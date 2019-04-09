@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<HomePage>
+<?xml-stylesheet type="text/xsl" href="Assigment.xsl"?>
+
+
+
+ <HomePage>
 
 
 	<HotNews>
 		<FocusNews>
 					
 				<Tittle>TP HCM sắp bầu tân Chủ tịch HĐND</Tittle>
-				<image>https://i-vnexpress.vnecdn.net/2019/04/03/layphieutinnhiem61911544002307-4835-6683-1554285856_500x300.jpg</image>
+				<image>
+				layphieutinnhiem.jpg
+				
+				</image>
 				<Desc>Kỳ họp bất thường dự kiến miễn nhiệm một số chức danh của HĐND và UBND thành phố, đồng thời bầu tân Chủ tịch HĐND.</Desc>
 				<Dependent>
 					<Item><Title>TP HCM khủng hoảng nhân sự lãnh đạo như thế nào</Title></Item>
@@ -32,7 +39,7 @@
 	</HotNews>
 
 
-	<MainNews>
+	<!-- <MainNews>
 		<Main>
 			<Title>Mộ phần nhạc sĩ Trịnh công Sơn sẽ đưa về Huế</Title>
 			<Image>https://i-vnexpress.vnecdn.net/2019/04/03/tcs61351554049983-1554293831-7403-1554294182_140x84.jpg</Image>
@@ -269,6 +276,6 @@
 		<Cuoi></Cuoi>
 		<XemNhieuNhat></XemNhieuNhat>
 	</Categories>
-
+ -->
 
 </HomePage>
