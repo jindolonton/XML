@@ -21,16 +21,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 				</div>
 
-			<div  style="width:25%; :blue; float:left;
-				display:block;
-            	border: 1px solid red;
-            	padding:5px;
-            	margin-top:5px;
-            
-				height:400px;
-            	overflow:scroll;">
+			<div  style="width:25%; :blue; float:left;display:block;border: 1px solid red;padding:5px;margin-top:5px;height:400px;verflow:scroll;">
 				
-					 <xsl:for-each select="HomePage/HotNews/hotNewsList">
+				 <xsl:for-each select="HomePage/HotNews/hotNewsList">
 					<ul >
 						<li><xsl:value-of select="Item/Title"/></li>
 						<li><xsl:value-of select="Item/Title"/></li>
@@ -49,10 +42,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			</div>
 		</div>
 	
-	
-			
-
-			
 		</body>
 
 	</html>
