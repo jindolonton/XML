@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="weather_fx.Controller">
+   <children>
+      <Pane layoutX="126.0" layoutY="34.0" prefHeight="333.0" prefWidth="386.0">
+         <children>
+            <Text  layoutX="41.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="City" />
+            <Text  layoutX="41.0" layoutY="122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Min_press" />
+            <Text  layoutX="41.0" layoutY="177.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Max_press" />
+            <Button layoutX="135.0" layoutY="268.0" mnemonicParsing="false" text="Weather" onAction="#start"/>
+            <Text fx:id="cityName" layoutX="170.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="174.21875" />
+            <Text fx:id="minPress" layoutX="175.0" layoutY="122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="165.21875" />
+            <Text fx:id="maxPress" layoutX="184.0" layoutY="177.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="174.21875" />
+            <Text fx:id="message" layoutX="106.0" layoutY="234.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" wrappingWidth="174.21875" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
